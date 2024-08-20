@@ -1,4 +1,4 @@
-package quest4;
+package Game;
 
 import java.util.Scanner;
 
