@@ -1,4 +1,4 @@
-package quest4;
+package Game;
 
 public class TicTacToe {
 	private int play;
